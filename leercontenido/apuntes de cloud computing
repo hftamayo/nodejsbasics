@@ -1,0 +1,48 @@
+que es la nube: 
+
+-compararlo con una red electrica de hace 100 años, cada consumidor de electricidad construia y mantenia su propia central de potencia
+
+-definicion
+
+-darte de alta en aws y tomar un pantallazo de la consola
+
+-tipos de nubes:investigar los costos de la upes en terminos de ancho de banda, almacenamiento y recovery
+
+-piramide de la nube
+
+-paquete general de aws:
+
+-comparacion de la infra de los pequeños negocios versus cloud
+
+-grafico de availability and scalability
+
+-demo de como te das de alta, como elegis los paquetes, como pagas y la consola de administracion
+
+Parte 2:
+-escalabilidad y costos, rentar en lugar de comprar, incluir graficos
+
+-acceso a infraestructura global
+
+- acceso casi infinito a escalabilidad
+
+acceso a nuevos servicios y nuevas opciones: DynamoDB
+
+
+Parte 3:
+-creacion de la cuenta en AWS
+-disponibilidad del servicio en nuestra region, mencionar brevemente el soporte por region, ver el sitio de global infrastructure
+-servicios disponibles en AWS: enfocarse en el que solicitamos y en el anexo 1 debe estar el listado de servicios disponibles
+
+
+servicios a montar: jira, repositorio, claroline, streaming video conferencia
+
+consolas de aws: web gui, etc.
+
+
+
+-pedir una oir de cuanto costo el data center de UEsaD
+
+
+
+
+
