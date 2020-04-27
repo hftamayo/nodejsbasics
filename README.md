@@ -1,3 +1,4 @@
+27/04 -> finalizacion del curso
 26/04 -> iniciar en modulo 7 tutorial 2
 25/04 -> iniciar en modulo 6 tutorial 6
 23/04 -> modulo 6 tutorial 2
